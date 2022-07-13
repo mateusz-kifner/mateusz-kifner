@@ -1,5 +1,3 @@
-# Mateusz Kifner
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifner-mateusz&exclude_repo=numcount2&theme=dark)](/README.md)
 
 <img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
