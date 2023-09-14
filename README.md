@@ -7,6 +7,6 @@
 ![Tech](https://skillicons.dev/icons?i=symfony,php,django,blender,kotlin,materialui,vite,cpp,cs,arduino,postman,androidstudio,bsd)[<img width="48px" src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" alt="mantine" />](https://mantine.dev)
 
 
-<h4 align="center"> In free time i make games with Godot 4</h4> <p align="center"><a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot" alt="godot" /></a></p>
+<h4 align="center"> In free time I make games with Godot 4</h4> <p align="center"><a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot" alt="godot" /></a></p>
 
 
