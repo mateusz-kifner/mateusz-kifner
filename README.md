@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifner-mateusz&exclude_repo=numcount2&theme=dark&hide=gdscript,glsl)](/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusz-kifner&exclude_repo=numcount2&theme=dark&hide=gdscript,glsl)](/README.md)
 
 <img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
