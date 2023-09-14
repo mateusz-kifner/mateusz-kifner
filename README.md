@@ -4,7 +4,7 @@
 ### Tech i use
 ![Tech](https://skillicons.dev/icons?i=linux,nodejs,vscode,figma,github,docker,gimp,inkscape)
 ### I have worked with in the past
-![Tech](https://skillicons.dev/icons?i=symfony,php,django,blender,kotlin,materialui,vite,cpp,cs,arduino,postman,androidstudio,bsd&perline=8)
+![Tech](https://skillicons.dev/icons?i=symfony,php,django,blender,kotlin,materialui,vite,cpp,cs,arduino,postman,androidstudio,bsd&perline=10)
 
 
 <h4 align="center"> In free time i make games with Godot 4</h4> <p align="center"><a href="https://godotengine.org"><img src="https://skillicons.dev/icons?i=godot" alt="godot" /></a></p>
